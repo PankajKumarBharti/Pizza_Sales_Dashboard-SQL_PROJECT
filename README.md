@@ -1,1 +1,1 @@
-# Pizza_Sales_Dashboard + SQL_PROJECT
+# Pizza_Sales_Dashboard_Using_SQL_Queries_PROJECT
