@@ -1,4 +1,4 @@
-# Pizza_Sales_Dashboard_Using_SQL_Queries_PROJECT
+# Pizza_Sales_Dashboard_Using_SQL_Queries with Power BI _PROJECT
 
 PROBLEM STATEMENT
 KPI’s REQUIREMENT
